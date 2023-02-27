@@ -13,7 +13,7 @@ Note – use the % operator in your calculations.
 
 seconds1 = int(input('Please enter the number of seconds: '))
 
-if seconds1 <= 0: #failsafe
+if seconds1 <= 0: # failsafe
     message = "Enter a number above 0.\n" + \
               "Rerun program and try again."
   
